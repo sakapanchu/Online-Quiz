@@ -27,4 +27,4 @@ Feel free to fork the repository and submit pull requests. Your contributions ar
 
 ## view live 
 
-      https://sakapanchu.github.io/Online-Quiz/
+   https://sakapanchu.github.io/Online-Quiz/
