@@ -24,3 +24,7 @@ This project is an interactive online quiz platform built using HTML, CSS, and J
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Your contributions are welcome!
+
+## view live 
+
+      https://sakapanchu.github.io/Online-Quiz/
